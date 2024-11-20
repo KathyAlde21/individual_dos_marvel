@@ -6,4 +6,4 @@ Proyecto realizado con anidamiento de Linear Layout y con ImageView:
 <br>
 <img src="./assets/image/codigo-3.JPG" alt="">
 <br>
-<img src="./assets/image/codigo-4.JPG" alt="">
+<img src="./assets/image/codigo-4.JPG" alt="" align="center">

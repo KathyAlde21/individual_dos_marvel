@@ -62,12 +62,13 @@
                 android:layout_weight="1"
                 android:scaleType="centerCrop"
                 android:src="@drawable/loki"/>
+
             <ImageView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:scaleType="centerCrop"
-                android:src="@drawable/black_widow"/>
+                android:src="@drawable/black_widow" />
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>
