@@ -1,5 +1,4 @@
-**_<h2 align="center">:vulcan_salute: Ejercicio Individual Dos :computer:</h2>_**
-**_<h2 align="center">:vulcan_salute: Alineamiento Linear Layout :computer:</h2>_**
+**_<h3 align="center">:vulcan_salute: Ejercicio Individual Dos - Alineamiento Linear Layout :computer:</h3>_**
 
 Proyecto realizado con anidamiento de Linear Layout y con ImageView de acuerdo a las instrucciones:
 
